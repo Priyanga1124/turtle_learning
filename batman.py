@@ -3,7 +3,7 @@ pointer=turtle.Turtle()
 canva=turtle.Screen()
 canva.bgcolor("yellow")
 pointer.write("BATMAN",align="left",font=("blanka",10,"bold"))
-
+#start
 pointer.color("black")
 
 pointer.fillcolor("black")
